@@ -33,7 +33,7 @@ class Layout extends Component {
             }
           }
         `}
-        render={data => (
+        render={(data) => (
           <>
             <Helmet
               title={data.site.siteMetadata.title}
@@ -42,7 +42,7 @@ class Layout extends Component {
                 { name: 'keywords', content: 'site, web' },
               ]}
             >
-              <html lang="en" />
+              <html lang="cs" />
             </Helmet>
             <div className={isPreloaded ? 'main-body is-preload' : 'main-body'}>
               <div id="wrapper">{children}</div>
