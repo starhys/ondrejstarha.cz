@@ -6,6 +6,7 @@ const pic = require('../assets/images/test.png');
 export default function Footer() {
   return (
     <header>
+      <p>{config.note}</p>
       <span className="avatar">
         <img
           height="128px"
@@ -14,7 +15,7 @@ export default function Footer() {
         />
       </span>
       <h1>{config.authorName}</h1>
-      <p>{config.heading}</p>
+      <h2>{config.heading}</h2>
     </header>
   );
 }

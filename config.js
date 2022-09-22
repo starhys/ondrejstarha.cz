@@ -10,6 +10,7 @@ module.exports = {
   pathPrefix: `/gatsby-starter-identity/`, // This path is subpath of your hosting https://domain/portfolio
   authorName: 'Ondřej Štarha',
   heading: 'IT Specialist & Web developer',
+  note: 'Potřebujete vytvořit webové stránky nebo IT správce vašeho podnikání?',
   // social
   socialLinks: [
     {
@@ -18,14 +19,14 @@ module.exports = {
       url: 'https://github.com/starhys',
     },
     {
-      icon: 'fa-twitter',
-      name: 'Twitter',
-      url: 'https://twitter.com/starhys',
+      icon: 'fa-instagram',
+      name: 'Instagram',
+      url: 'https://www.instagram.com/o_starhys/',
     },
     {
-      icon: 'fa-facebook',
-      name: 'Facebook',
-      url: 'https://facebook.com/ondrej.starha',
+      icon: 'fa-linkedin',
+      name: 'Linkedin',
+      url: 'https://www.linkedin.com/in/ondrej-starha/',
     },
     {
       icon: 'fa-envelope-o',
