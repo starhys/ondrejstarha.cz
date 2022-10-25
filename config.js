@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Ondřej Štarha', // <title>
+  siteTitle: 'Ondřej Štarha | IT Specialist & Web developer', // <title>
   manifestName: 'Identity',
   manifestShortName: 'Landing', // max 12 characters
   manifestStartUrl: '/',
