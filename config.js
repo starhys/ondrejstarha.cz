@@ -31,7 +31,7 @@ module.exports = {
     {
       icon: 'fa-envelope-o',
       name: 'Email',
-      url: 'mailto:o.starha@gmail.com',
+      url: 'mailto:info@ondrejstarha.cz',
     },
   ],
 };

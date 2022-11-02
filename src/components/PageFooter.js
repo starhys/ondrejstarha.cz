@@ -7,10 +7,6 @@ export default function PageFooter() {
       <ul className="copyright">
         <li>&copy; {config.authorName}</li>
         <li>IČO: 17427541</li>
-        <li>
-          Design: <a href="https://unsplash.com/">Unsplash</a> +{' '}
-          <a href="http://html5up.net">HTML5 UP</a>
-        </li>
       </ul>
     </footer>
   );
